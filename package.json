@@ -1,7 +1,7 @@
 {
     "name": "SoloLevelingRPLauncher",
     "preductname": "SoloLeveling Launcher",
-    "version": "1.0.1",
+    "version": "0.0.1",
     "description": "Official Launcher of Solo Leveling RP.",
     "main": "src/app.js",
     "author": {
