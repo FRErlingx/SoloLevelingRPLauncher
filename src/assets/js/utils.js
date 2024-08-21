@@ -84,7 +84,6 @@ async function headplayer(skinBase64) {
 
 async function setStatus(opt) {
     let nameServerElement = document.querySelector('.server-status-name')
-    let statusServerElement = document.querySelector('.server-status-text')
     let playersOnline = document.querySelector('.status-player-count .player-count')
 
     if (!opt) {
